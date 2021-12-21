@@ -7,7 +7,7 @@ import { TabContext, TabPanel
 
 export default function Pages() {
 
-    const [value, setValue] = React.useState('one');
+    const [value, setValue] = React.useState('about');
 
     const handleChange = (event, newValue) => {
         setValue(newValue);

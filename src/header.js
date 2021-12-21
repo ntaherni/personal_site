@@ -1,8 +1,6 @@
 import * as React from 'react';
 import './index.css';
 import { Typography } from '@mui/material';
-import Media from './media';
-import Pages from './tabs';
 
 export function Header() {
     return (
@@ -17,7 +15,5 @@ export function Header() {
       >
       Nicholas Tahernia
     </Typography>
-    <Media />
-    <Pages />
   </div>)
 }
