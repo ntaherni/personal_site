@@ -1,11 +1,12 @@
 import * as React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Button from '@mui/material/Button';
+import { Header } from './header';
 import reportWebVitals from './reportWebVitals';
 
 function App() {
-  return (<Button variant="contained">Hello World</Button>);
+  return (
+    <Header />);
 }
 
 ReactDOM.render(<App />, document.querySelector('#app'));
