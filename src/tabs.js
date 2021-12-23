@@ -5,6 +5,7 @@ import { Tab, Tabs
 import { TabContext, TabPanel 
  } from '@mui/lab';
 import About from './about';
+import Resume from './resume';
 
 export default function Pages() {
 
@@ -34,7 +35,9 @@ export default function Pages() {
             <TabPanel value="about">
                 <About />
             </TabPanel>
-            <TabPanel value="resume">Resume TBD</TabPanel>
+            <TabPanel value="resume">
+                <Resume />
+            </TabPanel>
             <TabPanel value="exp">Experience TBD</TabPanel>
             <TabPanel value="proj">Projects TBD</TabPanel>
             <TabPanel value="hobbies">Hobbies TBD</TabPanel>
