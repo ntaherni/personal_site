@@ -7,6 +7,8 @@ import { TabContext, TabPanel
 import About from './about';
 import Resume from './resume';
 import Experience from './exp';
+import Current from './current';
+import Projects from './projects';
 
 export default function Pages() {
 
@@ -42,9 +44,13 @@ export default function Pages() {
             <TabPanel value="exp">
                 <Experience />
             </TabPanel>
-            <TabPanel value="proj">Projects TBD</TabPanel>
+            <TabPanel value="proj">
+                <Projects />
+            </TabPanel>
             <TabPanel value="hobbies">Hobbies TBD</TabPanel>
-            <TabPanel value="current">Current TBD</TabPanel>
+            <TabPanel value="current">
+                <Current />
+            </TabPanel>
         </TabContext>
     )
 }

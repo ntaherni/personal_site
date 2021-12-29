@@ -19,8 +19,10 @@ export default function About() {
                 my experience or education, or just want to say hi!</p>
             </Typography>
             <div className="media">
-                <img src="https://media-exp1.licdn.com/dms/image/C5603AQHcyfpHfXl-GA/profile-displayphoto-shrink_400_400/0/1616312814349?e=1645660800&v=beta&t=yu9rhmLFyj1Cgyuz0luHZOa-3oKTVJRcvClEfV69GxA" 
-                alt="Self-Portrait"/>
+                <a href="https://www.linkedin.com/in/nicholas-tahernia/" target="_blank" rel="noopener noreferrer">
+                    <img src="https://media-exp1.licdn.com/dms/image/C5603AQHcyfpHfXl-GA/profile-displayphoto-shrink_400_400/0/1616312814349?e=1645660800&v=beta&t=yu9rhmLFyj1Cgyuz0luHZOa-3oKTVJRcvClEfV69GxA" 
+                    alt="Self-Portrait"/>
+                </a>
             </div>
         </div>
     )
