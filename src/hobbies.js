@@ -73,6 +73,7 @@ export default function Hobbies() {
                     <li>Futurama</li>
                     <li>1984</li>
                     <li>Dune</li>
+                    <li>Parasite</li>
                 </ul>
                 <p>My last major hobby would have to be music, I've played piano for over 14 years on and off and I listen to almost all genres of music, a few of my favorite artists are:
                 <ul>
