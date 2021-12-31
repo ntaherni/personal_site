@@ -9,6 +9,7 @@ import Resume from './resume';
 import Experience from './exp';
 import Current from './current';
 import Projects from './projects';
+import Hobbies from './hobbies';
 
 export default function Pages() {
 
@@ -47,7 +48,9 @@ export default function Pages() {
             <TabPanel value="proj">
                 <Projects />
             </TabPanel>
-            <TabPanel value="hobbies">Hobbies TBD</TabPanel>
+            <TabPanel value="hobbies">
+                <Hobbies />
+            </TabPanel>
             <TabPanel value="current">
                 <Current />
             </TabPanel>
