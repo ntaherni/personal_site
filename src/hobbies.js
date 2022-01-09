@@ -95,9 +95,10 @@ export default function Hobbies() {
                     <li>ZICO</li>
                     <li>Giveon</li>
                     <li>Drake</li>
-                    <li>Frank Ocean</li>
+                    <li>Childish Gambino</li>
                     <li>Eve</li>
                     <li>Moe Shop</li>
+                    <li>Indigo la End</li>
                     <li>Nujabes</li>
                     <li>potsu</li>
                 </ul>
