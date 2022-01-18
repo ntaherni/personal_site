@@ -1,5 +1,5 @@
-{
-  "name": "my-app",
+{ "homepage": "https://ntaherni.github.io/personal_site/",
+  "name": "nicholas-tahernia-personal-site",
   "version": "0.1.0",
   "private": true,
   "main": "index.js",
