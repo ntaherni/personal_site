@@ -41,7 +41,7 @@ const itemData = [
         href: 'https://www.instagram.com/nico___t/'
     },
     {
-        img: 'http://iconsetc.com/icons-watermarks/flat-rounded-square-white-on-black/aiga/aiga_mail/aiga_mail_flat-rounded-square-white-on-black_512x512.png',
+        img: 'https://toppng.com/uploads/preview/font-email-comments-email-icon-square-11563265451o3oy61mf1b.png',
         title: 'Mail',
         href: 'mailto:nicholas.tahernia@gmail.com',
     },
