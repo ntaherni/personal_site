@@ -20,7 +20,7 @@ export default function About() {
             </Typography>
             <div className="media">
                 <a href="https://www.linkedin.com/in/nicholas-tahernia/" target="_blank" rel="noopener noreferrer">
-                    <img src="https://media-exp1.licdn.com/dms/image/C5603AQHcyfpHfXl-GA/profile-displayphoto-shrink_400_400/0/1616312814349?e=1645660800&v=beta&t=yu9rhmLFyj1Cgyuz0luHZOa-3oKTVJRcvClEfV69GxA" 
+                    <img src="https://media-exp1.licdn.com/dms/image/C5603AQHcyfpHfXl-GA/profile-displayphoto-shrink_800_800/0/1616312814349?e=1652313600&v=beta&t=-Rja_EWyJAau03XziJ7hnZsh3C0IeCqLgfxZr8XlYoI" 
                     alt="Self-Portrait"/>
                 </a>
             </div>
